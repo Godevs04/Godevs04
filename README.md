@@ -75,7 +75,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-Let's make the web better together! If you have any questions, need support, or are interested in collaborating with us, feel free to [contact us](mailto:godevs04@gmail.com).
+Let's make the web better together! If you have any questions, need support, or are interested in collaborating with us, feel free to [contact us](mailto:godevsteam@gmail.com).
 
 Thank you for choosing Godevs for your web application needs!
 
